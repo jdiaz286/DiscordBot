@@ -1,0 +1,10 @@
+{
+    "prefix": "!",
+    "token": "NzYzODc4MjI4MTcwMzc1MjM5.X3-HCQ.WSs4q6mncAFBQmYYzd4fhpsmvK8",
+    "sql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Deathswapper2",
+        "database": "JonathanDiscordBot"
+    }
+}
